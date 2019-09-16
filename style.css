@@ -41,13 +41,13 @@ body {
 .box-flex {
     background-color: grey;
     margin: auto;
-    padding: 30px;
     height: 300px;
     display: flex;
     flex-flow: row wrap; /*flex-direction flex-wrap*/
     align-items: center;
     justify-content:center;
     align-content: center;
+    flex-direction: row
 }
 
 .div1 {
@@ -60,5 +60,6 @@ body {
 .div2 {
     background-color: whitesmoke;
     margin: auto;
-    width: 50%;  
+    width: 50%;
+    height: 200px;  
 }
