@@ -50,17 +50,20 @@ body {
     flex-direction: row;
 }
 
-.div1 {
-    background-color: whitesmoke;
-    margin: auto;
-    width: 50%;
-    height: 200px;
-    border: 1px solid red;
-}
+.box {
+    padding: .5rem;
+    height: 300px;
+    border-radius: 4px;
+    color: #84613D;
+    background: #FDF9EA;
+    border-bottom: 1px solid red;
+    border-right: 1px solid red;
+  }
 
-.div2 {
-    background-color: whitesmoke;
-    margin: auto;
-    width: 50%;
-    height: 200px;  
-}
+.box div {
+    max-width: 125px;
+    text-align: center;
+    background: rgba(255,255,255,0.5);
+    margin: .25rem;
+    padding: .25rem;
+  }
