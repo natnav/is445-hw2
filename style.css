@@ -51,16 +51,14 @@ body {
 }
 
 .box {
-    padding: .5rem;
     height: 500px;
-    border-radius: 4px;
     color: #84613D;
     background: #FDF9EA;
     border: 1px solid red;
   }
 
 .box div {
-    max-width: 125px;
+    max-width: 200px;
     text-align: center;
     background: rgba(255,255,255,0.5);
     margin: .25rem;
