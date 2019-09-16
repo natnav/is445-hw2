@@ -39,10 +39,10 @@ body {
 /*flexbox*/
 .box-flex {
     background-color: #f073e1;
-    margin: 10px;
+    margin: auto;
     padding: 30px;
     height: 500px;
-    width:900px;
+    width: 900px;
     display: flex;
     flex-flow: row wrap; /*flex-direction flex-wrap*/
     align-items: center;
