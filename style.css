@@ -42,20 +42,17 @@ body {
     display: flex;
     flex-flow: row wrap; /*flex-direction flex-wrap*/
     align-items: center;
-    justify-content:center;
-    align-content: center;
+    justify-content: center;
 }
 
 .div1 {
     background-color: #f800db;
     margin: 5px;
-    width: 50%;
-    height: 400px;
+    width: 200px;
 }
 
 .div2 {
     background-color: #f800db;
     margin: 5px;
-    width: 50%;
-    height: 400px;
+    width: 200px;
 }
