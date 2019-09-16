@@ -47,7 +47,7 @@ body {
     align-items: center;
     justify-content:center;
     align-content: center;
-    flex-direction: row
+    flex-direction: row;
 }
 
 .div1 {
@@ -55,6 +55,7 @@ body {
     margin: auto;
     width: 50%;
     height: 200px;
+    border: 1px solid red;
 }
 
 .div2 {
