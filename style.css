@@ -51,6 +51,7 @@ body {
 }
 
 .box {
+    flex-direction: row;
     width: 50%;
     height: 300px;
     color: #84613D;
