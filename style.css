@@ -54,12 +54,10 @@ body {
     background-color: whitesmoke;
     margin: auto;
     width: 50%;
-    border: 1px solid red;
 }
 
 .div2 {
     background-color: whitesmoke;
     margin: auto;
-    width: 50%;
-    border: 1px solid red;
+    width: 50%;  
 }
