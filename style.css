@@ -34,7 +34,7 @@ body {
 
 /*flexbox*/
 .parent {
-    background-color: white;
+    background-color:black;
     margin: 10px;
     padding: 30px;
     height: 500px;
@@ -46,12 +46,14 @@ body {
 }
 
 .about-me {
-    background-color:pink;
+    background-color:white;
     margin: 5px;
+    width: 150px;
+    font-size:30px;
 }
 
 .contact-me {
-    background-color: #f800db;
+    background-color:white;
     margin: 5px;
     width: 150px;
     font-size: 30px;
