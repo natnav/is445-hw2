@@ -41,7 +41,7 @@ body {
 .box-flex {
     background-color: grey;
     margin: auto;
-    height: 300px;
+    height: 500px;
     display: flex;
     flex-flow: row wrap; /*flex-direction flex-wrap*/
     align-items: center;
@@ -52,12 +52,11 @@ body {
 
 .box {
     padding: .5rem;
-    height: 300px;
+    height: 500px;
     border-radius: 4px;
     color: #84613D;
     background: #FDF9EA;
-    border-bottom: 1px solid red;
-    border-right: 1px solid red;
+    border: 1px solid red;
   }
 
 .box div {
