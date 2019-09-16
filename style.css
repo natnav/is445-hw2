@@ -35,7 +35,7 @@ body {
 }
 
 .my-image {
-   text-align: center; 
+   margin: auto; 
 }
 
 /*flexbox*/
