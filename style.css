@@ -26,3 +26,8 @@ body {
     font-size: 32px;
     font-size: 2rem;
 }
+
+.image-text {
+    text-align: center;
+    padding: 0;
+}
