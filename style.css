@@ -39,7 +39,7 @@ body {
 
 /*flexbox*/
 .box-flex {
-    background-color: #f073e1;
+    background-color: grey;
     margin: auto;
     padding: 30px;
     height: 300px;
@@ -51,15 +51,17 @@ body {
 }
 
 .div1 {
-    background-color: #f800db;
+    background-color: whitesmoke;
     margin: auto;
     width: 50%;
     height: 100%;
+    border: 1px solid red;
 }
 
 .div2 {
-    background-color: #f800db;
+    background-color: whitesmoke;
     margin: auto;
     width: 50%;
     height: 100%;
+    border: 1px solid red;
 }
