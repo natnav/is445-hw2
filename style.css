@@ -47,7 +47,7 @@ body {
     flex-flow: row wrap; /*flex-direction flex-wrap*/
     align-items: center;
     justify-content:center;
-    align-content: flex-start;
+    align-content: center;
 }
 
 .div1 {
