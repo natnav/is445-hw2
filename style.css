@@ -41,7 +41,7 @@ body {
 .box-flex {
     background-color: grey;
     margin: auto;
-    height: 500px;
+    height: 400px;
     display: flex;
     flex-flow: row wrap; /*flex-direction flex-wrap*/
     align-items: center;
@@ -51,8 +51,7 @@ body {
 }
 
 .box {
-    height: 500px;
-    width: 200px;
+    width: 300px;
     color: #84613D;
     background: #FDF9EA;
     border: 1px solid red;
