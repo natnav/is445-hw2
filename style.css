@@ -42,7 +42,7 @@ body {
     background-color: #f073e1;
     margin: auto;
     padding: 30px;
-    height: 500px;
+    height: 300px;
     display: flex;
     flex-flow: row wrap; /*flex-direction flex-wrap*/
     align-items: center;
@@ -54,6 +54,7 @@ body {
     background-color: #f800db;
     margin: auto;
     width: 50%;
+    height: 50%;
 }
 
 .div2 {
