@@ -32,6 +32,13 @@ body {
     padding: 0;
 }
 
+.my-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 /*flexbox*/
 .box-flex {
     background-color: #f073e1;
