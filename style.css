@@ -13,6 +13,7 @@ body {
 /*header*/
 .top-bar {
     height: 70px;
+    margin:auto;
 }
 
 .page-title {
