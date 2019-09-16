@@ -45,12 +45,12 @@ body {
     align-content: flex-start;
 }
 
-.div1 {
+.about-me {
     background-color:pink;
     margin: 5px;
 }
 
-.div2 {
+.contact-me {
     background-color: #f800db;
     margin: 5px;
     width: 150px;
