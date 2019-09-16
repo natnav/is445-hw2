@@ -58,9 +58,7 @@ body {
   }
 
 .box div {
-    max-width: 200px;
+    width: 200px;
     text-align: center;
-    background: rgba(255,255,255,0.5);
-    margin: .25rem;
-    padding: .25rem;
+    background: rgba(153, 132, 132, 0.5);
   }
