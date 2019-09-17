@@ -55,8 +55,8 @@ body {
 }
 
 .box-1 {
-    width: 447px;
-    height: 400px;
+    max-width: 447px;
+    max-height: 400px;
     background-color: white;
     border-top: 2px solid maroon;
     border-right: 1px solid maroon;
@@ -65,8 +65,8 @@ body {
   }
 
 .box-2 {
-    width: 447px;
-    height: 400px;
+    max-width: 447px;
+    max-height: 400px;
     background-color: white;
     border-top: 2px solid maroon;
     border-right: 2px solid maroon;
@@ -78,14 +78,6 @@ body {
     width: 100px;
     text-align: center;
     background-color:black;
-  }
-
-.box-2 div {
-    width: 100px;
-    text-align: center;
-    align-items: center;
-    justify-content:center;
-    align-content: center;
   }
 
 .box-title {
@@ -119,7 +111,7 @@ body {
     height: 200px;
     width: 300px;   
     text-align: right;
-    margin: 200px;
+    margin: 100px;
     flex-flow: column wrap;
     border: 1px solid black;
 }
