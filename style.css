@@ -96,4 +96,13 @@ body {
     font-weight: bold;
     font-style: italic;
     list-style-type: none;
+    text-decoration: underline;
+}
+
+.box-text p {
+    text-align: left;
+}
+
+.list {
+    text-align: left;
 }
