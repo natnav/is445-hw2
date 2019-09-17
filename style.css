@@ -129,6 +129,7 @@ body {
     justify-content: left;
     align-content: left;
     text-align: left;
+    margin:10px;
 }
 .email {
     width: 300px;
