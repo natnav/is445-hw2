@@ -168,4 +168,5 @@ body {
 .contact-me p {
     text-align: left;
     margin-top: 20px;
+    margin-bottom: 0;
 }
