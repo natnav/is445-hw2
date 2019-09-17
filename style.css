@@ -55,8 +55,8 @@ body {
 }
 
 .box-1 {
-    max-width: 447px;
-    max-height: 400px;
+    width: 447px;
+    height: 400px;
     background-color: white;
     border-top: 2px solid maroon;
     border-right: 1px solid maroon;
@@ -65,8 +65,8 @@ body {
   }
 
 .box-2 {
-    max-width: 447px;
-    max-height: 400px;
+    width: 447px;
+    height: 400px;
     background-color: white;
     border-top: 2px solid maroon;
     border-right: 2px solid maroon;
