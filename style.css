@@ -57,13 +57,20 @@ body {
     width: 400px;
     height: 400px;
     background-color: white;
-    border: 2px solid red;
+    border-top: 2px solid maroon;
+    border-right: 1px solid maroon;
+    border-left: 2px solid maroon;
+    border-bottom: 2px solid maroon;
   }
+  
 .box-2 {
     width: 400px;
     height: 400px;
     background-color: white;
-    border: 2px solid red;
+    border-top: 2px solid maroon;
+    border-right: 2px solid maroon;
+    border-left: 1px solid maroon;
+    border-bottom: 2px solid maroon;
   }
 
 .box-1 div {
