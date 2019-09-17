@@ -165,7 +165,7 @@ body {
     font-size: 10px;
 }
 
-.contact-me p {
+.contact-me p :not(.send) {
     text-align: left;
     margin-top: 20px;
     margin-bottom: 0;
