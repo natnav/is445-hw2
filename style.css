@@ -72,6 +72,9 @@ body {
     border-right: 2px solid maroon;
     border-left: 1px solid maroon;
     border-bottom: 2px solid maroon;
+    align-items: center;
+    justify-content:center;
+    align-content: center;
   }
 
 .box-1 div {
@@ -83,6 +86,9 @@ body {
 .box-2 div {
     width: 100px;
     text-align: center;
+    align-items: center;
+    justify-content:center;
+    align-content: center;
   }
 
 .box-title {
@@ -114,7 +120,7 @@ body {
     justify-content:center;
     align-content: center;
     height: 200px;
-    width: 100px;   
+    width: 100%;   
 }
 
 .name {
