@@ -116,19 +116,17 @@ body {
     align-items: center;
     justify-content: center;
     align-content: center;
-    height: 100px;
-    width: 100px;   
+    height: 200px;
+    width: 300px;   
     text-align: right;
-    margin: 100px;
+    margin: 200px;
     flex-flow: column wrap;
-    padding: 20px;
     border: 1px solid black;
 }
 
 .name {
     width: 80px;
     height: 50px;
-    border: 
     background-color: white;
     border: 2px solid black;
     align-items: center;
