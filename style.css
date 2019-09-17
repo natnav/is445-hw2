@@ -86,7 +86,12 @@ body {
     background-color:black;
   }
 
-.box-text {
+.box-title {
     text-align: center;
     margin: 5px;
+}
+
+.box-text li {
+    text-align: left;
+    font: italic bold 12px Calibri, arial
 }
