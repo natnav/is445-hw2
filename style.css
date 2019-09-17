@@ -17,7 +17,7 @@ body {
 .page-title {
     position: fixed;
     top: 0;
-    width: 100%;
+    width: 900px;
     height: 40px;
     background-color: white;
     color: black;
