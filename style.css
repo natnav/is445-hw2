@@ -91,7 +91,7 @@ body {
     margin: 5px;
 }
 
-.box-text li:not(.list) {
+.about-me li:not(.list) {
     text-align: left;
     font-weight: bold;
     font-style: italic;
@@ -99,7 +99,7 @@ body {
     text-decoration: underline;
 }
 
-.box-text p {
+.about-me p {
     text-align: left;
 }
 
