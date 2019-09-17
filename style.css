@@ -65,6 +65,7 @@ body {
     height: 400px;
     background-color: white;
     border: 2px solid red;
+    border-left: 1px;
   }
 
 .box-1 div {
