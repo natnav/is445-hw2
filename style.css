@@ -53,14 +53,26 @@ body {
     padding: 20px;
 }
 
-.box {
+.box-1 {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border: 2px solid red;
+  }
+.box-2 {
     width: 400px;
     height: 400px;
     background-color: white;
     border: 2px solid red;
   }
 
-.box div {
+.box-1 div {
+    width: 100px;
+    text-align: center;
+    background-color:black;
+  }
+  
+.box-2 div {
     width: 100px;
     text-align: center;
     background-color:black;
