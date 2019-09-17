@@ -91,7 +91,7 @@ body {
     margin: 5px;
 }
 
-.box-text li {
+.box-text li:not(.list) {
     text-align: left;
     font-weight: bold;
     font-style: italic;
