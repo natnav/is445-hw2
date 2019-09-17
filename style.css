@@ -93,5 +93,6 @@ body {
 
 .box-text li {
     text-align: left;
-    font: italic bold 12px Calibri, arial
+    font: italic bold;
+    list-style-type: none;
 }
