@@ -12,6 +12,7 @@ body {
 /*header*/
 .top-bar {
     height: 60px;
+    border-bottom: 3px solid green;
 }
 
 .page-title {
