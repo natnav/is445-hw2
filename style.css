@@ -43,6 +43,7 @@ body {
     background-color:white;
     margin: auto;
     height: 400px;
+    width: 100%;
     display: flex;
     flex-flow: row wrap; /*flex-direction flex-wrap*/
     align-items: center;
