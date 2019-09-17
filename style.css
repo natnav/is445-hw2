@@ -110,4 +110,18 @@ body {
 .contact-me {
     display: flex;
     flex-direction: column;
+    background-color: grey;
+    height: 200px;
+    width: 300px;   
+}
+
+.name {
+    width: 90px;
+    height: 30px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.name div {
+    background-color: black;
 }
