@@ -80,6 +80,14 @@ body {
     background-color:black;
   }
 
+.box-2 div {
+    width: 100px;
+    text-align: center;
+    align-items: center;
+    justify-content:center;
+    align-content: center;
+  }
+
 .box-title {
     text-align: center;
     margin: 5px;
@@ -104,7 +112,7 @@ body {
 .contact-me {
     display: flex;
     flex-direction: column;
-    background-color: grey;
+    background-color: whitesmoke;
     align-items: center;
     justify-content: center;
     align-content: center;
@@ -112,11 +120,15 @@ body {
     width: 100px;   
     text-align: right;
     margin: 100px;
+    flex-flow: column wrap;
+    padding: 20px;
+    border: 1px solid black;
 }
 
 .name {
     width: 80px;
     height: 50px;
+    border: 
     background-color: white;
     border: 2px solid black;
     align-items: center;
