@@ -109,7 +109,7 @@ body {
     text-align: left;
     margin: 16px;
 }
-.contact-me div {
+.contact-me {
     display: flex;
     flex-direction: column;
     background-color: grey;
@@ -118,12 +118,12 @@ body {
     align-content: center;
     height: 100px;
     width: 100px;   
-    text-align: center
+    text-align: center;
 }
 
 .name {
-    width: 100%;
-    height: 30px;
+    width: 80px;
+    height: 50px;
     background-color: white;
     border: 2px solid black;
     align-items: center;
