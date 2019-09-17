@@ -150,7 +150,6 @@ body {
     justify-content: left;
     align-content: left;
     text-align: left;
-    padding-right: 10px;
 }
 
 .send-message {
@@ -164,9 +163,9 @@ body {
     text-align: center;
     border-radius: 10px;
     font-size: 10px;
+    margin: auto;
 }
 
 .contact-me p {
     text-align: left;
-    margin:0;
 }
