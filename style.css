@@ -109,7 +109,7 @@ body {
     text-align: left;
     margin: 16px;
 }
-.contact-me {
+.contact-me div {
     display: flex;
     flex-direction: column;
     background-color: grey;
@@ -122,7 +122,7 @@ body {
 }
 
 .name {
-    width: 90px;
+    width: 100%;
     height: 30px;
     background-color: white;
     border: 2px solid black;
