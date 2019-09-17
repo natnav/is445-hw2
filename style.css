@@ -175,6 +175,5 @@ body {
     .box-flex {
         flex-direction: column;
         flex-flow: column wrap;
-        display: block;
     }
 }
