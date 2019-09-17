@@ -110,7 +110,7 @@ body {
     align-content: center;
     height: 350px;
     width: 400px;   
-    text-align: right;
+    text-align: left;
     margin-bottom: 50px;
     margin-right: 35px;
     margin-left: 25px;
@@ -124,9 +124,42 @@ body {
     width: 300px;
     height: 25px;
     background-color: white;
-    border: 2px solid black;
+    border: 1px solid black;
     align-items: left;
     justify-content: left;
     align-content: left;
     text-align: left;
+}
+.email {
+    width: 300px;
+    height: 25px;
+    background-color: white;
+    border: 1px solid black;
+    align-items: left;
+    justify-content: left;
+    align-content: left;
+    text-align: left;
+}
+
+.message {
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    align-items: left;
+    justify-content: left;
+    align-content: left;
+    text-align: left;
+}
+
+.send-message {
+    width: 300px;
+    height: 25px;
+    background-color: white;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    border-radius: 20px;
 }
