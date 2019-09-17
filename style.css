@@ -105,13 +105,13 @@ body {
     display: flex;
     flex-direction: column;
     background-color: grey;
-    align-items: right;
-    justify-content: right;
-    align-content: right;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
     height: 100px;
     width: 100px;   
     text-align: right;
-    margin: 20px;
+    margin: 100px;
 }
 
 .name {
