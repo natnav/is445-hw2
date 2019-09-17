@@ -41,7 +41,7 @@ body {
 /*flexbox*/
 .box-flex {
     background-color:white;
-    margin: auto;
+    margin: 0;
     height: 400px;
     width: 100%;
     display: flex;
