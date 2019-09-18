@@ -176,7 +176,6 @@ body {
         position: fixed;
         text-align: center;
         font-size: 20px;
-        font-size: 2rem;
         margin: auto;
     }
     .box-flex {
@@ -202,7 +201,7 @@ body {
     .box-2 {
         border-top: 1px solid maroon;
         border-right: 2px solid maroon;
-        border-left: 1px solid maroon;
+        border-left: 2px solid maroon;
         border-bottom: 2px solid maroon;
         margin: auto;
         align-items: center;
