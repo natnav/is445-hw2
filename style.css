@@ -186,6 +186,7 @@ body {
         flex-direction: column;
         flex-flow: column wrap;
         display: block;
+        margin: 0;
     }
     .box-1 {
         border-top: 2px solid maroon;
