@@ -184,24 +184,18 @@ body {
         align-content: center;
         flex-direction: column;
         flex-flow: column wrap;
-        display: inline-block;
+        display: flex
     }
     .box-1 {
         border-top: 2px solid maroon;
         border-right: 2px solid maroon;
         border-left: 2px solid maroon;
         border-bottom: 1px solid maroon;
-        align-items: center;
-        justify-content: center;
-        align-content: center;
     }
     .box-2 {
         border-top: 1px solid maroon;
         border-right: 2px solid maroon;
         border-left: 1px solid maroon;
         border-bottom: 2px solid maroon;
-        align-items: center;
-        justify-content: center;
-        align-content: center;
     }
 }
