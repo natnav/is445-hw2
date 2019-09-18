@@ -179,6 +179,7 @@ body {
         font-size: 2rem;
     }
     .box-flex {
+        max-width: 600px;
         align-items: center;
         justify-content: center;
         align-content: center;
