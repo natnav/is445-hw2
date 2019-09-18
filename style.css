@@ -172,9 +172,30 @@ body {
 }
 
 @media screen and (max-width: 600px){
+    .page-title {
+        position: fixed;
+        text-align: center;
+        font-size: 32px;
+        font-size: 2rem;
+    }
     .box-flex {
+        align-items: center;
+        justify-content: center;
+        align-content: center;
         flex-direction: column;
         flex-flow: column wrap;
         display: inline-block;
+    }
+    .box-1 {
+        border-top: 2px solid maroon;
+        border-right: 2px solid maroon;
+        border-left: 2px solid maroon;
+        border-bottom: 1px solid maroon;
+    }
+    .box-2 {
+        border-top: 1px solid maroon;
+        border-right: 2px solid maroon;
+        border-left: 1px solid maroon;
+        border-bottom: 2px solid maroon;
     }
 }
