@@ -186,14 +186,14 @@ body {
         flex-direction: column;
         flex-flow: column wrap;
         display: block;
-        margin: 0;
+        margin: auto;
     }
     .box-1 {
         border-top: 2px solid maroon;
         border-right: 2px solid maroon;
         border-left: 2px solid maroon;
         border-bottom: 1px solid maroon;
-        margin: 0;
+        margin: auto;
         align-items: center;
         justify-content: center;
         align-content: center;
@@ -203,7 +203,7 @@ body {
         border-right: 2px solid maroon;
         border-left: 1px solid maroon;
         border-bottom: 2px solid maroon;
-        margin: 0;
+        margin: auto;
         align-items: center;
         justify-content: center;
         align-content: center;
