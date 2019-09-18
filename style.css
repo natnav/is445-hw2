@@ -182,7 +182,7 @@ body {
         font-size: 20px;
         font-size: 2rem;
         max-width: 600px;
-        margin: auto;
+        margin: 0;
     }
     .box-flex {
         max-width: 600px;
