@@ -172,17 +172,13 @@ body {
 }
 
 @media screen and (max-width: 600px){
-    .top-bar {
-        max-width: 600px;
-        margin: 0;
-    }
     .page-title {
         position: fixed;
         text-align: center;
         font-size: 20px;
         font-size: 2rem;
         max-width: 600px;
-        margin: 0;
+        margin: auto;
     }
     .box-flex {
         max-width: 600px;
