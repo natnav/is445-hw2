@@ -177,6 +177,7 @@ body {
         text-align: center;
         font-size: 32px;
         font-size: 2rem;
+        margin: auto;
     }
     .box-flex {
         max-width: 600px;
